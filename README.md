@@ -77,12 +77,14 @@ print('{0:>3} {1:>16}'.format(9, 10**9))
 print('{0:>3} {1:>16}'.format(10, 10**10)
 ```
  
- ![Screenshot (63)](https://user-images.githubusercontent.com/115678171/198816032-fc8004ba-67c8-4506-954d-d7e77deac44d.png)
- ![Screenshot (64)](https://user-images.githubusercontent.com/115678171/198816037-2a855d15-28af-491f-91cd-fa16e1744518.png)
+ ![Latihan1(1)](https://user-images.githubusercontent.com/115678251/199151672-4ccdca23-e26d-450e-a3d7-75cd297be5ee.png)
+
+![Latihan1(2)](https://user-images.githubusercontent.com/115678251/199151733-d7a6b9d6-31ce-420f-acb1-2a3a5b7e23e8.png)
+
  
  *Hasil run*
- ![Screenshot (61)](https://user-images.githubusercontent.com/115678171/198816131-06a6ba95-c712-4855-8efe-264562e6b029.png)
-![Screenshot (62)](https://user-images.githubusercontent.com/115678171/198816134-bc4f5b6e-d80c-4fc2-82e7-46c908987be6.png)
+![Run Latihan 1](https://user-images.githubusercontent.com/115678251/199151883-f675f8ad-6c8b-4b7a-8ba4-944748fc9745.png)
+
 
 # Latihan 2 
 1. Anda masukan code latihan 2 anda lalu Run 
@@ -99,9 +101,11 @@ b=int(b)
 print("hasil penjumlahan {1}+{0}=%s".format(a,b) %(a+b))
 print("hasil pembagian {1}/{0}=%s".format(a,b) %(a/b))
 ````
-![Screenshot (68)](https://user-images.githubusercontent.com/115678171/198816300-3b5d72ee-26a4-4bf7-8fce-5710999bea71.png)
+![Latihan 2](https://user-images.githubusercontent.com/115678251/199151998-ea986f81-642c-4a37-9892-f826d7f6dde7.png)
+
 *Hasil Run*
-![Screenshot (69)](https://user-images.githubusercontent.com/115678171/198816307-c1739b5e-447c-44bd-a0a2-43b3ca770e17.png)
+![Run Latihan 2](https://user-images.githubusercontent.com/115678251/199152032-6fe43527-8adc-46e6-ae98-a145b104dd63.png)
+
 
 # Latihan 3
 1. Anda masukan code seperti dibawah ini dan lalu Run
@@ -154,11 +158,12 @@ while bar <= x:
 	bar = bar + 1
 print (string)
 ````
-![Screenshot (71)](https://user-images.githubusercontent.com/115678171/198816679-fcdcebb6-58b9-4857-b171-2dd65952ed24.png)
-![Screenshot (72)](https://user-images.githubusercontent.com/115678171/198816705-c1fbd2e3-b549-493f-8ea8-1d831895a782.png)
+![Latihan 3 (1)](https://user-images.githubusercontent.com/115678251/199152523-4c061ced-9739-4def-8701-caba9d9e54ed.png)
+![Latihan 3 (2)](https://user-images.githubusercontent.com/115678251/199152546-7c5ca23a-f2e4-475a-9b04-2aeabf40c1b0.png)
+
 
 *Hasil Run*
-![Screenshot (70)](https://user-images.githubusercontent.com/115678171/198816756-e4e3c2c0-0582-4bf4-8bdb-2f5ffc892568.png)
+![Run Latihan 3](https://user-images.githubusercontent.com/115678251/199152626-b6352947-25dd-4f1f-be22-2a43478dbd7a.png)
 
 # Menghitung Luas Dan Keliling Lingkaran
 1. Masukan code di bawah ini lalu run
@@ -173,10 +178,12 @@ keliling = 2 * math.pi * r
 print("Luas Lingkaran \t\t= ", luas)
 print("Keliling Lingkaran\t= ", keliling)
 ````
-![Screenshot (82)](https://user-images.githubusercontent.com/115678171/198817214-75aca326-f313-47fe-a27c-a7fe79f08332.png)
+![Menghitung Luas Dan Keliling Lingkaran](https://user-images.githubusercontent.com/115678251/199152709-698e75c2-8546-4f0c-8ddd-3e0e6ba43353.png)
+
 
 *Hasil Run*
-![Screenshot (81)](https://user-images.githubusercontent.com/115678171/198817233-c6c11b97-3aaf-48ed-b7c0-e2ff8c813896.png)
+![Run Menghitung Luas dan Keliling lingkaran](https://user-images.githubusercontent.com/115678251/199152760-0536d82b-e4f8-4210-b1f5-877c39f298ee.png)
+
 
 # Flowchart Menghitung luas dan keliling lingkaran
 ![Flowchart menghitung luas dan keliling lingkaran](https://user-images.githubusercontent.com/115678171/198817259-154fec0b-f2b1-44e5-86c0-4c7ab1ad6142.png)
